@@ -1,0 +1,12 @@
+body {
+  background-color: #4b2727;
+}
+
+.circle {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  background-color: black;
+}
+
+/*# sourceMappingURL=index.css.map */
